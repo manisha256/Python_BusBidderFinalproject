@@ -1,0 +1,8 @@
+# BusBidder Spain (ACIT4420) - Python Dependencies
+# Requires Python 3.8+ (uses typing.Optional / List / Dict for compatibility with Python < 3.10).
+# All core modules (cli.py, profile_registry.py, filtering.py, ranking.py, loader.py,
+# booking.py, credits.py, custom_logger.py, exceptions.py) use the Python Standard Library
+# and require no external third-party packages.
+
+# Optional development/testing packages (not required for runtime):
+# pytest>=7.0.0
